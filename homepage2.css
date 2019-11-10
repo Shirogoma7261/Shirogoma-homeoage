@@ -10,12 +10,13 @@ li {
   margin: 0 auto; }
 
 header {
-  background-image: url("https://blog-imgs-46-origin.fc2.com/u/r/a/uraraka01/tw01_applegreen.gif");
+  background-image: url("./header-green.gif");
   height: auto;
   background-size: cover;
   position: fixed;
   top: 0;
-  width: 100%; }
+  width: 100%;
+  z-index: 10; }
 
 .header-left h1 {
   font-size: 40px;
@@ -92,4 +93,4 @@ footer {
     border: solid 2px white;
     border-radius: 8px; }
 
-
+/*# sourceMappingURL=homepage2.css.map */
