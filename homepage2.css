@@ -10,7 +10,7 @@ li {
   margin: 0 auto; }
 
 header {
-  background-image: url("./header-green.gif");
+  background-image: url("header-green.gif");
   height: auto;
   background-size: cover;
   position: fixed;
